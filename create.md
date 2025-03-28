@@ -1,3 +1,7 @@
+layout: page
+title: "PAGE-TITLE"
+permalink: /https://Xkalivur.github.io/create
+
 <!DOCTYPE html>
 <html>
     <head>
