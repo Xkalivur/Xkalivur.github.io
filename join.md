@@ -1,7 +1,11 @@
+layout: page
+title: "PAGE-TITLE"
+permalink: /https://Xkalivur.github.io/join
+
 <!DOCTYPE html>
 <html>
     <head>
-        <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+        <link rel="stylesheet" href="style.css">
     </head>
     <body>
 
