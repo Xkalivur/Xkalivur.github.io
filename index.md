@@ -1,6 +1,6 @@
 layout: page
 title: "index"
-permalink: /https://xkalivur.github.io/index
+permalink: /https://xkalivur.github.io/
 
 <!DOCTYPE html>
 <html>
