@@ -5,7 +5,7 @@ permalink: /https://xkalivur.github.io/index
 <!DOCTYPE html>
 <html>
     <head>
-        <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+        <link rel="stylesheet" href="style.css">
     </head>
     <body>
 
